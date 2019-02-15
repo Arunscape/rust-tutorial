@@ -11,3 +11,6 @@ https://github.com/rust-lang/book/tree/master/src
 ## Day 1:
 
 Continuing from https://doc.rust-lang.org/book/ch01-02-hello-world.html
+
+## Day 2:
+Continuing from https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html 
